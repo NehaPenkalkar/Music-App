@@ -1,0 +1,6 @@
+framework module Pods_itunesGetApi {
+  umbrella header "Pods-itunesGetApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
